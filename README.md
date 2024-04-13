@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Mennatallah Abouelenin
 - Currently studying computer engineering
-- A sophomore at Bilkent University
+- A junior at Bilkent University
 - 📫 Email: mennaayman646@gmail.com
 
 <!---
