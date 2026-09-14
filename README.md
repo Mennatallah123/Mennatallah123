@@ -1,6 +1,6 @@
 # 👋 Hi, I’m Mennatallah Abouelenin
 
-🎓 Computer Engineering Graduate at Bilkent University
+🎓 Computer Engineering Graduate from Bilkent University
 
 ---
 
